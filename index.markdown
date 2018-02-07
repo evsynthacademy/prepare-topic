@@ -5,7 +5,7 @@ published: true
 
 # So you want to conduct a systematic review?  
 
-This is the third course in a series of online classes about how to conduct a systematic review.  In this course, we’ll talk about how to lay the groundwork for your systematic review.
+This is the second course in a series of online classes about how to conduct a systematic review.  In this course, we’ll talk about how to lay the groundwork for your systematic review.
 
 For more background on what a systematic review is and how it might help you answer an important question, check out our intro course.
 
