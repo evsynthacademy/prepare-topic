@@ -7,17 +7,21 @@
 
 
 Analytic frameworks are more helpful when your research approach is less straightforward.  
-<br><br>
+<br>
 For instance, you might be interested in long term mortality- is your father likely to live longer if he receives hemodialysis or peritoneal dialysis? Unfortunately, when you did a quick scan of the literature, most of the studies you found only lasted about 6 months. They didn’t have data on long term mortality. 
 <br><br>
 What should you do?  
-<br><br>
+<br>
 All is not lost. In most cases, you can still conduct a systematic review. You just need to do some thinking about how you can use the data that does exist to answer your question. You should also be aware that because your evidence is limited, your ability to draw conclusions will also be limited and come with greater uncertainties. 
 <br><br>
 An analytic framework maps out that strategy.  You’re using this visualization to tell your audience about your plan for using proxy measures, also called intermediate or surrogate measures, to reach your conclusions. 
 <br><br>
 For cases where you use intermediate outcomes to answer your final question, a simple analytic framework could look like this:
-<br><br>
+<br>
+<center>
+<img src="{{site.baseurl}}/img/framework3.png">
+</center>
+<br>
 
 This analytic framework explains that your systematic review will look at two types of research:
 <br><br>
