@@ -8,7 +8,9 @@
 At this point in the process, you’ve thought deeply about your topic, quickly scanned the existing literature and built your team.  Now you’re going to use all of this prep work to build what’s called an **analytic framework**.<br><br>
 
 
-%%%%%%%%%%%%%%%% Need Image %%%%%%%%%%%%%%%%%%%%%
+<center>
+<img src="{{site.baseurl}}/img/framework1.png" width="400" >
+</center>
 
 <br><br>
 
