@@ -25,8 +25,9 @@ Once you’ve made this schematic, you can use it as a communication tool to qui
 
 Let’s start with the basics. If you had just one research question and you found plenty of studies that answered that question directly, your analytic framework would look pretty boring:<br><br>
 
-
-%%%%%%%%%%%%%%%% Need Image %%%%%%%%%%%%%%%%%%%%%
+<center>
+<img src="{{site.baseurl}}/img/framework2.png">
+</center>
 
 <br><br>
 
