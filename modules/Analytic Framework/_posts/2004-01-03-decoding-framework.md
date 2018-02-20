@@ -7,10 +7,8 @@
 
 In general, researchers use a few common symbols to build their analytic frameworks: <br><br>
 
-<center>
 <img src="{{site.baseurl}}/img/framework4.png">
 <img src="{{site.baseurl}}/img/framework5.png">
-</center>
 
 <br><br>
  
