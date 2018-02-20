@@ -12,16 +12,16 @@ At this point in the process, you’ve thought deeply about your topic, quickly 
 <img src="{{site.baseurl}}/img/framework1.png">
 </center>
 
-<br><br>
+<br>
 
 ## What is an an analytic framework?
 
 At first glance, an analytic framework might look a little intimidating. But basically, it’s just a drawing of the decisions you’ve made about the direction of your research, how your research elements relate to each other, and what questions are most important to you. 
 
-<br><br>
+<br>
 Once you’ve made this schematic, you can use it as a communication tool to quickly tell other people about the decisions and priorities you made when you designed your research. 
 
-<br><br>
+<br>
 
 Let’s start with the basics. If you had just one research question and you found plenty of studies that answered that question directly, your analytic framework would look pretty boring:<br><br>
 
@@ -29,7 +29,7 @@ Let’s start with the basics. If you had just one research question and you fou
 <img src="{{site.baseurl}}/img/framework2.png">
 </center>
 
-<br><br>
+<br>
 
 This analytic framework says you’re looking at how a specific population responds to an intervention. The arrow indicates that your systematic review will examine the relationship between the intervention and the final outcome you care about. 
 <br><br>
