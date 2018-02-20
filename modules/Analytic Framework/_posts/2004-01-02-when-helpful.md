@@ -29,4 +29,5 @@ This analytic framework explains that your systematic review will look at two ty
 - Studies with data about your final question/outcome.
 - Studies with data that you think will help you construct a proxy for your final question/outcome.
 <br><br>
+
 It gets more complicated from there as you add more questions and more approaches to reaching your final outcome. Researchers use some standard symbols and shapes to illustrate these approaches, and we’ll talk about those on the next page.
