@@ -9,7 +9,7 @@ At this point in the process, you’ve thought deeply about your topic, quickly 
 
 
 <center>
-<img src="{{site.baseurl}}/img/framework1.png" width="400" >
+<img src="{{site.baseurl}}/img/framework1.png">
 </center>
 
 <br><br>
